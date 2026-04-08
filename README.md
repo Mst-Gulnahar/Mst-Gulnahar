@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center" style="color:#d291bc; font-family: 'Courier New', monospace;">
+  ⌗ Gulnahar .˚εїз⁺˚✿˖°
+</h1>
+
+<h3 align="center" style="color:#8b5e3c; font-family: 'Courier New', monospace;">
+  ⌞ Artsy Full-Stack Developer ⌝
+</h3>
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
