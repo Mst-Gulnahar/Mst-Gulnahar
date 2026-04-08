@@ -1,10 +1,10 @@
-<h1 align="center" style="color:#d291bc; font-family: 'Courier New', monospace;">
-  ⌗ Gulnahar .˚εїз⁺˚✿˖°
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gulnahar%20.%CB%9A%CE%B5%D1%97%D0%B7%E2%81%BA%CB%9A%E2%9C%BF%CB%96%C2%B0-ffc0cb?style=for-the-badge" />
+</p>
 
-<h3 align="center" style="color:#8b5e3c; font-family: 'Courier New', monospace;">
-  ⌞ Artsy Full-Stack Developer ⌝
-</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Artsy%20Full--Stack%20Developer-8b5e3c?style=for-the-badge" />
+</p>
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
