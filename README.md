@@ -7,10 +7,6 @@
 </p>
 
 <br />
-
-<div align="center">
-  <img src="profile-pic.png" width="200px" style="border-radius: 50%; border: 5px solid #E8A0BF;" />
-  <br /><br />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=B5835A&center=true&vCenter=true&width=500&lines=✧+The+Creative+Developer+✧;🌿+Storytelling+with+Code" />
   
