@@ -57,15 +57,6 @@
 <br />
 
 <div align="center">
-  <h2 style="color: #E8A0BF;">📈 Analytics Hub</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&title_color=E8A0BF&text_color=B5835A&icon_color=E8A0BF&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=rose_pine&hide_border=true&title_color=E8A0BF&text_color=B5835A&bg_color=00000000" width="48%" />
-  
-  <br />
-  
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E8A0BF,B5835A&height=100&section=footer" width="100%" />
