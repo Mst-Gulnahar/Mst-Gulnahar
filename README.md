@@ -49,7 +49,7 @@
 
 <div align="center">
   <h3 style="color: #B5835A;">✧ Get In Touch ✧</h3>
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/mst-gulnahar" target="www.linkedin.com/in/mst-gulnahar"><img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-B5835A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="YOUR_WEBSITE_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2D5A27?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
