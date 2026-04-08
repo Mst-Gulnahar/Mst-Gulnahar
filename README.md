@@ -8,17 +8,32 @@
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
-<!--
-**Mst-Gulnahar/Mst-Gulnahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🌿 About Me ✿</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Hi, I'm <b>Mst. Gulnahar (Gulnahar)</b> — a passionate <b>Full-Stack Web Developer</b> 
+  focused on building clean, user-friendly, and visually engaging web applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I enjoy blending <i>structured backend logic</i> with <i>thoughtful, aesthetic UI design</i>, 
+  creating experiences that are both functional and delightful.
+</p>
+
+<br>
+
+<p align="center">
+  <b>✧ Currently Working On ✧</b>
+</p>
+
+<p align="center">
+  ⌞ Building full-stack applications using Next.js, Node.js, and MySQL ⌝ <br>
+  ⌞ Improving application architecture and performance ⌝ <br>
+  ⌞ Enhancing UI/UX with smooth interactions and animations ⌝
+</p>
+
+<br>
+
+<p align="center">
+  <i>⌗ Clean code, aesthetic design, functionality ✿</i>
+</p>
