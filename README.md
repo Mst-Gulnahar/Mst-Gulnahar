@@ -8,61 +8,56 @@
 
 <br />
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="300px" align="center" valign="middle">
-      <img src="profile-pic.png" width="220px" style="border-radius: 30px;" />
-      <br />
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="50" />
-    </td>
-    <td valign="top" style="padding-left: 20px;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=B5835A&width=500&lines=✧+The+Creative+Developer+✧;🌿+Storytelling+with+Code" />
-      <p style="font-size: 1.1em; line-height: 1.6;">
-        Hi, I'm <b>Mst. Gulnahar</b> — a full-stack developer blending <i>robust backend logic</i> with <i>storybook-inspired aesthetics</i>. I build digital spaces that feel <b>intentional and cozy</b>.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/-Frontend-E8A0BF?style=for-the-badge&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Backend-B5835A?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/-UI/UX-D291BC?style=for-the-badge&logo=figma&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="profile-pic.png" width="220px" style="border-radius: 50%; border: 4px solid #E8A0BF;" />
+  <br />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="60" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=B5835A&center=true&vCenter=true&width=500&lines=✧+The+Creative+Developer+✧;🌿+Storytelling+with+Code" />
+  
+  <p style="font-size: 1.2em; max-width: 800px;">
+    Hi, I'm <b>Mst. Gulnahar</b> — a full-stack developer blending <i>robust backend logic</i> with <i>storybook-inspired aesthetics</i>. I build digital spaces that feel <b>intentional and cozy</b>.
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/-Frontend-E8A0BF?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Backend-B5835A?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UI/UX-D291BC?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
+</div>
 
 <br />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" />
-  <h2 align="center">🌿 My Technical Garden 🌿</h2>
+  <h2>🌿 My Technical Garden 🌿</h2>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,nodejs,mysql,figma,git,github,vscode,npm,mongodb,express&perline=7" />
 </div>
 
 <br />
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40" />
-      <h3>✧ Current Focus ✧</h3>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=B5835A&center=true&width=350&lines=Next.js+Architecture;Refining+Cinnabloom;Framer+Motion+Magic" />
-      <div align="left" style="margin-top: 15px; display: inline-block;">
-         ✨ <b>Next.js</b> - Scalable Architecture <br>
-         🕰️ <b>The Archive</b> - Digital Storytelling <br>
-         🎨 <b>Creative Coding</b> - Motion Design
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="40" />
-      <h3>✧ Get In Touch ✧</h3>
-      <br />
-      <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://www.youtube.com/@KheerKween" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-      <br><br>
-      <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="YOUR_WEBSITE_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=google-chrome&logoColor=61DAFB" /></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="50" />
+  <h3>✧ Current Focus ✧</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=B5835A&center=true&width=450&lines=Refining+Cinnabloom+Bakery;Building+Next.js+Architecture;Curating+Framer+Motion+Magic" />
+  
+  <ul style="list-style: none; padding: 0; display: inline-block; text-align: left; margin-top: 15px;">
+    <li>✨ <b>Next.js</b> - Exploring scalable full-stack architecture</li>
+    <li>🕰️ <b>The Archive</b> - Crafting digital lore and storytelling</li>
+    <li>🎨 <b>Creative Coding</b> - Perfecting seamless UI animations</li>
+  </ul>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="50" />
+  <h3>✧ Get In Touch ✧</h3>
+  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@KheerKween" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_WEBSITE_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=google-chrome&logoColor=61DAFB" /></a>
+</div>
 
 <br />
 
