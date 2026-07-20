@@ -48,7 +48,6 @@ I am Mst. Gulnahar, a full-stack developer blending robust backend logic with cl
   
   <!-- Displays Language Activity securely without rate limits -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mst-Gulnahar&theme=tokyonight&bg_color=0A192F&color=64FFDA&line=64FFDA&point=FFFFFF" width="100%" alt="Heartbeat Activity Graph" />
-</div>
 
 <br><br>
   
