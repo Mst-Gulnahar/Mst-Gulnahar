@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=250&section=header&text=Pixel%20Studio&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Mst.%20Gulnahar%20•%20Frontend%20Web%20Developer&descSize=25&descAlignY=60&fontColor=FFFFFF&descColor=8892B0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=250&section=header&text=Mst.%20Gulnahar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=%20•Full-stack%20%20Web%20Developer&descSize=25&descAlignY=60&fontColor=FFFFFF&descColor=8892B0" width="100%" />
 </div>
 
 <p align="center">
-  <img src="banner.png?v=2" width="100%" style="border-radius: 20px;" />
+  <img src="updated-banner.png" width="100%" style="border-radius: 20px;" />
 </p>
 
 # Hi, I'm Mst. Gulnahar 👋
@@ -41,11 +41,23 @@ I am Mst. Gulnahar, a full-stack developer blending robust backend logic with cl
 ## ✧ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mst-Gulnahar&show_icons=true&theme=tokyonight&bg_color=0A192F&title_color=FFFFFF&icon_color=64FFDA&text_color=8892B0&count_private=true" alt="GitHub Stats" />
-  <br><br>
+  <!-- Displays Total Contributions and Streak Data safely -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mst-Gulnahar&theme=tokyonight&background=0A192F&ring=64FFDA&fire=64FFDA&title=FFFFFF&stroke=8892B0&hide_border=false" alt="GitHub Streak" />
+  
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mst-Gulnahar&layout=compact&theme=tokyonight&bg_color=0A192F&title_color=FFFFFF&text_color=8892B0" alt="Top Languages" />
+  
+  <!-- Displays Language Activity securely without rate limits -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mst-Gulnahar&theme=tokyonight&bg_color=0A192F&color=64FFDA&line=64FFDA&point=FFFFFF" width="100%" alt="Heartbeat Activity Graph" />
+</div>
+
+<br><br>
+  
+  <!-- Natively displays the primary languages used across projects -->
+  <p style="font-weight: bold; color: #0A192F;">✧ Languages Used & Project Metrics ✧</p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ---
@@ -53,7 +65,6 @@ I am Mst. Gulnahar, a full-stack developer blending robust backend logic with cl
 ## ✧ Get In Touch
 
 <div align="center">
-  <a href="mailto:smith@scic13.com"><img src="https://img.shields.io/badge/Hiring_Inquiry-smith@scic13.com-0A192F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=233554" /></a>
   <a href="mailto:pixelstudioo003@gmail.com"><img src="https://img.shields.io/badge/General_Email-pixelstudioo003@gmail.com-8892B0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F" /></a>
   <a href="https://www.linkedin.com/in/mst-gulnahar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mst._Gulnahar-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8892B0" /></a>
 </div>
